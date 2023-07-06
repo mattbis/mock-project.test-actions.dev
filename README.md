@@ -1,3 +1,10 @@
+# mock-project.test-everything
+1. generate domain specific data
+2. generate domain likeley deep and hugely flat structures
+3. simulate connection, volume and device transfer constraints...
+
+4. scale testing / mod
+
 # mock-project.test-actions.dev
 .. need to select things to use since omg there are a lot of them.. 
 
