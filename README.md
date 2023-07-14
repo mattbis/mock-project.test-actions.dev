@@ -4,7 +4,7 @@
 3. simulate connection, volume and device transfer constraints...
 
 4. scale testing / mod
-    - just noticed artillery have a ci action NICE
+    - just noticed artillery have a ci action NICE - exactly this in each thing used ( project is gonna use quite a few bits and pieces )
 
 # mock-project.test-actions.dev
 .. need to select things to use since omg there are a lot of them.. 
